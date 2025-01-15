@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kadmin_brainstorm](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25sbXZtYmE5bGgyb3BtODdhbGd4eHQyODcwOG1rdjdndzBpemRseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FJ5uQwPAw2iHiQ41Tt/giphy.gif)
+![Kadmin_brainstorm](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVoeTJ3eXNvdjQzbms3bmsweG05OGZ6NnR0c29sdHk0NHZyanZ2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/703jiJLjMXGVFDESZL/giphy.gif)
 
   
 # 💫 About Me
