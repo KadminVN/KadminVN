@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kadmin_brainstorm](https://github.com/user-attachments/assets/2624ccdc-41bc-4719-b8d3-f81683aa3551)
+![Kadmin_brainstorm](https://gifyu.com/image/SebnS)
 
   
 # 💫 About Me
