@@ -1,5 +1,6 @@
-<div>
+
 # 💫 About Me
+<div>
 🔭 I’m currently working on MineTech<br>👯 I’m looking to collaborate on MC SMP 24/7<br>🤝 I’m looking for help with GX Shader making<br>🌱 I’m currently learning how to Heck<br>⚡ Fun fact: im just a beginner
 <div align="center">
 </div>
