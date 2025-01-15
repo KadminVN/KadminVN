@@ -1,7 +1,8 @@
 <div>
 # 💫 About Me
 🔭 I’m currently working on MineTech<br>👯 I’m looking to collaborate on MC SMP 24/7<br>🤝 I’m looking for help with GX Shader making<br>🌱 I’m currently learning how to Heck<br>⚡ Fun fact: im just a beginner
-
+<div align="center">
+</div>
 
 ## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/DfW6dyxAPJ) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/kadminisbr) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KPGPRO1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kadminisbruh5591) 
@@ -24,8 +25,6 @@
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/scamkadmin) 
-<div align="center">
-</div>
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
