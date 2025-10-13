@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Kadmin_brainstorm](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGNoeW82cm5hczNuZjJkbXE4OGMwZzJ0cjduNzR5dWJpZXprMWU4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z27N33xEa7CiUYVo1B/giphy.gif)
-[![My Video Preview](https://raw.githubusercontent.com/KadminVN/KadminVN/main/Daisy%20Bell.gif)](https://youtube.com/shorts/g9YNVrVIiRo?feature=share)
+[![My Video Preview](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk0djlqZG9xY2QxMm15b2xtc2dnd29tOTQ0cTYyb3R2ajVuZmh6MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g6zu9easad5rmHUQR9/giphy.gif)](https://youtube.com/shorts/g9YNVrVIiRo?feature=share)
   
 # 💫 About Me
 
